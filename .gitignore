@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data files and folders
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.parquet
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+*.webp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# Large binary files
+*.bin
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
