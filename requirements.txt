@@ -1,0 +1,10 @@
+ipython
+matplotlib
+numpy>=1.21.0
+pillow>=9.0.0
+requests>=2.25.0
+scikit-learn
+seaborn
+torch>=2.0
+torchvision
+tqdm
